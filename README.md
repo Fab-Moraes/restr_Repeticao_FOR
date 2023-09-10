@@ -1,4 +1,4 @@
-# restr_Repeticao_FOR
+# estr_Repeticao_FOR
 Durante a iteração, ele verifica se a letra atual, quando transformada em maiúscula usando letra.upper(), está presente na string vogais, que contém as vogais maiúsculas. 
 Se a letra for uma vogal maiúscula, ela é impressa sem pular para uma nova linha. A linha print() vazia no final é usada para adicionar uma quebra de linha após a impressão das vogais,
 de modo que o texto seguinte será exibido em uma nova linha.
